@@ -1,3 +1,1 @@
-nome = prompt("Digite seu primeiro nome:");
-segundoNome = prompt("Digite seu segundo nome");
-alert(`${nome} ${segundoNome}`)
+alert("Pressione o botão “Ok” para visualizar o nome da disciplina");
